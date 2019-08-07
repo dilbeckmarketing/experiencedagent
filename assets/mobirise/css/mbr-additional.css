@@ -149,3 +149,23 @@ p {
 #contacts1-7 .contact-info i {
   color: #007c6f !important;
 }
+#dropdown-menu-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-g .nav .link,
+#dropdown-menu-g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-g .navbar,
+#dropdown-menu-g .dropdown-menu {
+  background: #333;
+}
+#dropdown-menu-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-g .dropdown-menu a:hover,
+#dropdown-menu-g .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-g .navbar-toggler {
+  color: #ffffff;
+}
