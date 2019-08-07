@@ -198,11 +198,11 @@
             "icon2": "fa-phone",
             "icon3": "fa-envelope"
           },
-          "title": "Find us",
+          "title": "",
           "text1": "303 N. Glenoaks Blvd.<div>Ste L-110</div><div><span style=\"background-color: inherit;\">Burbank, CA 91502</span></div>",
           "text2": "818-843-7100&nbsp;",
           "text3": "eric.benz@dilbeck.com<br>",
-          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/dilbeck-real-estate/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/dilbeckre\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/dilbeckre\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a>   <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/dilbeckre/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-instagram\"></i></a> ",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
